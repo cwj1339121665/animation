@@ -93,7 +93,7 @@ body{
   margin-left: -204px;
   width: 409px;
   height: 485px;
-  background-image: url(/练习/常规流/图片/9.png);
+  background-image: url(.//9.png);
   animation: box 2s steps(16) infinite;
 }
 @keyframes box{
